@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/AllVideo.jar"/>
+	<classpathentry kind="lib" path="dist/lib/javabuilder.jar"/>
+	<classpathentry kind="lib" path="dist/VideoTextExt.jar"/>
+	<classpathentry kind="lib" path="lib/AllVideo.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MATLAB/MATLAB Runtime/v85/toolbox/javabuilder/jar/javabuilder.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Final Code/VideoTextExt/l/DetectText.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Final Code/VideoTextExt/l/Graphs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Final Code/VideoTextExt/l/Input.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Final Code/VideoTextExt/l/Mser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Final Code/VideoTextExt/l/OcrText.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Final Code/VideoTextExt/l/Preprocessing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Final Code/VideoTextExt/l/Regions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Final Code/VideoTextExt/l/Textarea.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Final Code/VideoTextExt/l/Videoin.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

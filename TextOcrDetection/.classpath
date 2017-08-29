@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="l/DetectText.jar"/>
+	<classpathentry kind="lib" path="l/Graphs.jar"/>
+	<classpathentry kind="lib" path="l/Input.jar"/>
+	<classpathentry kind="lib" path="l/Mser.jar"/>
+	<classpathentry kind="lib" path="l/OcrText.jar"/>
+	<classpathentry kind="lib" path="l/Preprocessing.jar"/>
+	<classpathentry kind="lib" path="l/Regions.jar"/>
+	<classpathentry kind="lib" path="l/Textarea.jar"/>
+	<classpathentry kind="lib" path="l/Videoin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MATLAB/MATLAB Runtime/v85/toolbox/javabuilder/jar/javabuilder.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
